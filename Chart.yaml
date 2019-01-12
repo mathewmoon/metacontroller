@@ -1,0 +1,17 @@
+name: metacontroller
+version: 0.1.0
+appVersion: v0.3.0
+description: Lightweight Kubernetes controllers as a service 
+keywords:
+  - aws
+  - k8s
+  - kubernetes
+  - metacontroller
+  - kube
+home: https://github.com/GoogleCloudPlatform/metacontroller
+sources:
+  - https://github.com/GoogleCloudPlatform/metacontroller
+maintainers:
+  - name: mathewmoon
+    email: mmoon@quinovas.com
+engine: gotpl
